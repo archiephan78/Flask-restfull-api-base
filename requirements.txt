@@ -65,7 +65,7 @@ stevedore==1.30.0
 Tempita==0.5.2
 traitlets==4.3.2
 urllib3==1.24.1
-validators==0.12.4
+validators==0.12.6
 wcwidth==0.1.7
 Werkzeug==0.14.1
 wrapt==1.11.0
